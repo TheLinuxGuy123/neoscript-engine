@@ -3,11 +3,8 @@
 ![GitHub Release](https://img.shields.io/github/v/release/TheLinuxGuy123/neoscript-engine) ![GitHub License](https://img.shields.io/github/license/TheLinuxGuy123/neoscript-engine)
 
 
-<img src="https://github.com" alt="Project Logo" width="200" height="auto" align="center">
- ^
- |
 
-The GUTHIB LOGO
+
 
 
 **DEAR USER**
